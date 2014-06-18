@@ -1,6 +1,8 @@
 Librarian-Posh
 ==============
 
+DO NOT YET USE THIS - Developement in progress....
+
 Librarian-Posh is a bundler for your Powershell Poshfile based infrastructure repositories.
 It's a fork of the librarian-chef project.
 
